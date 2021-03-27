@@ -19,7 +19,7 @@ import java.util.Optional;
 @RestController
 @RequestMapping("/api")
 public class CourseController {
-
+    //this is a test
     private final Logger log = LoggerFactory.getLogger(CourseController.class);
 
 
